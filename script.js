@@ -17,7 +17,9 @@ const winConditions = [
     [6, 4, 2]
 ];
 
-let options = ["", "", "", "", "", "", "", "", "", ];
+let options = ["", "", "",
+               "", "", "",
+               "", "", "" ];
 let currentPlayer = "X";
 let running = false;
 let X = 0;
